@@ -8,7 +8,7 @@
 
 **Installation**
   
-* Download the [yeelight-candela-light.conf](yeelight-candela-light.conf) and edit the configuration section
+* Download the [yeelight-candela-light.conf](yeelight-candela-light.conf) file and edit the configuration section
 
 [OLA trigger documentation](https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 
